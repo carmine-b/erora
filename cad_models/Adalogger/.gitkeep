@@ -1,0 +1,11 @@
+Download instructions for Adalogger FeatherWing files:
+
+1. Visit GitHub: https://github.com/adafruit/Adafruit-Feather-RTC-SD-Data-Logger-FeatherWing-PCB
+2. Download the .brd file (EAGLE format)
+
+Note: To convert .brd to STEP:
+- Import into Autodesk Fusion 360
+- Export as STEP file
+- Or use FreeCAD with KiCad StepUp plugin
+
+Once downloaded/converted, place the file here and commit.
