@@ -1,0 +1,6 @@
+Download instructions for RP2040 Feather STEP file:
+
+1. Visit: https://github.com/adafruit/Adafruit_CAD_Parts/tree/master/4884%20Feather%20RP2040
+2. Download the 4884_Feather_RP2040.step file directly from GitHub
+
+Once downloaded, place the .step file here and commit.
