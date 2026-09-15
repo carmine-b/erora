@@ -1,0 +1,7 @@
+Download instructions for OLED FeatherWing 128x64 STEP file:
+
+1. Visit Adafruit CAD Parts: https://github.com/adafruit/Adafruit_CAD_Parts
+2. Search for "OLED" or "128x64" folder
+3. Download the .step file
+
+Once downloaded, place the .step file here and commit.
